@@ -1,0 +1,5 @@
+# CRISP Performance Translator - Dependencies
+pandas>=1.5.0
+numpy>=1.23.0
+streamlit>=1.25.0
+openpyxl>=3.0.0

@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Data (don't commit real CRISP exports)
+data/real/
+*.xlsx
+!sample_crisp_export.csv
+
+# Reports (generated)
+shift_report_*.md
+shift_report_*.html
+
+# Images (build artifacts)
+icon_*.svg
